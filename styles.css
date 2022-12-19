@@ -2,7 +2,7 @@
     width: 500px;
     height: 500px;
     margin: 0 auto;
-    background: url(https://www.bing.com/images/search?view=detailV2&ccid=zO67yRWN&id=73FCDA0095E30B3C987856BA30E815EADADB09D5&thid=OIP.zO67yRWNKqifjjDzMUSJggHaDx&mediaurl=https%3A%2F%2Ftadviser.ru%2Fimages%2F4%2F48%2F%D0%A6%D0%92%D0%A2_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_2020.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.cceebbc9158d2aa89f8e30f331448982%3Frik%3D1Qnb2uoV6DC6Vg%26pid%3DImgRaw%26r%3D0&exph=1034&expw=2031&q=%d1%86%d0%b2%d1%82&simid=608035819101374703&form=IRPRST&ck=BBD56E1E93B2395CAD6FD5D28ED1C2EC&selectedindex=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11);
+    background: url(https://images.unsplash.com/photo-1662535800386-271f33a9343a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80);
     background-size: cover;
     border-radius: 4px;
 }
@@ -52,7 +52,3 @@ input:focus {
     border: none;
     cursor: pointer;
 }
-::-webkit-input-placeholder {color:#3f3f44; padding-left: 10px;} // Это стили для placeholder
-::-moz-placeholder          {color:#3f3f44; padding-left: 10px;} // Это стили для placeholder
-:-moz-placeholder           {color:#3f3f44; padding-left: 10px;} // Это стили для placeholder
-:-ms-input-placeholder      {color:#3f3f44; padding-left: 10px;} // Это стили для placeholder
